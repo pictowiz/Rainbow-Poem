@@ -4,7 +4,6 @@ Purple
 Green
 Red
 Unicorn
-Pony
 Violet
 Blue
 Yellow
