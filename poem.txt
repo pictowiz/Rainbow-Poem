@@ -2,6 +2,7 @@ The Rainbow
 
 Purple
 Green
+Red
 Blue
 Yellow
 
